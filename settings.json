@@ -1,0 +1,30 @@
+{
+  "headless": false,
+  "forcedGenre": "dance",
+  "supportedGenres": [
+    "classical",
+    "dance",
+    "electronic",
+    "pop",
+    "rock",
+    "world"
+  ],
+  "minTracks": 6,
+  "maxTracks": 6,
+  "releaseNames": {
+    "classical": [],
+    "dance": [],
+    "electronic": [],
+    "pop": [],
+    "rock": [],
+    "world": []
+  },
+  "trackNames": {
+    "classical": [],
+    "dance": [],
+    "electronic": [],
+    "pop": [],
+    "rock": [],
+    "world": []
+  }
+}

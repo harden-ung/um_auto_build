@@ -1,0 +1,9 @@
+arts/*
+genres/classical/*
+genres/dance/*
+genres/electronic/*
+genres/pop/*
+genres/world/*
+genres/rock/*
+node_modules
+settings.png
