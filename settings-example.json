@@ -1,6 +1,7 @@
 {
   "headless": false,
-  "forcedGenre": "classical",
+  "useVCC": false,
+  "forcedGenre": "dance",
   "supportedGenres": [
     "classical",
     "dance",
@@ -9,8 +10,8 @@
     "rock",
     "world"
   ],
-  "minTracks": 5,
-  "maxTracks": 5,
+  "minTracks": 2,
+  "maxTracks": 3,
   "releaseNames": {
     "classical": [],
     "dance": [],
@@ -26,5 +27,6 @@
     "pop": [],
     "rock": [],
     "world": []
-  }
+  },
+  "devMode": false
 }
