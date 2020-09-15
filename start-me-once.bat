@@ -16,3 +16,4 @@ git update-index --no-assume-unchanged settings-example.json
 
 del -f "node_modules/"
 npm install
+cmd /k
