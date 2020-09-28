@@ -10,6 +10,8 @@
     "rock",
     "world"
   ],
+  "blackListcountrySelectValues": ["GB", "US"],
+  "ramdomCountriesToSelect": ["KH", "FI", "NL", "NO", "IT", "DE"],
   "minTracks": 2,
   "maxTracks": 3,
   "releaseNames": {
