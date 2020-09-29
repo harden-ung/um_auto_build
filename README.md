@@ -9,7 +9,7 @@ b4: chỉnh settings
   các settings cần chú ý: 
     "headless": false,      // false = mở crhome khi chạy tool
     "useVCC": false,        // false = ko dùng vcc (phải để false)    
-    "forcedGenre": "dance", // ghi tên genre vào để bắt tool CHỈ dùng genre này 
+    "forcedGenre": "dance", // ghi tên genre vào để bắt tool CHỈ dùng genre này, để "" thì sẽ ra random
     "minTracks": 2,         // random min songs
     "maxTracks": 3,         // random max songs
     "supportedGenres": [    // chỉ để những genre mà folder có nhạc
