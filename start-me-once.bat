@@ -1,3 +1,4 @@
+git init
 git remote add https://github.com/harden-ung/um_auto_build.git
 git remote -v
 
