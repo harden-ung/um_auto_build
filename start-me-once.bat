@@ -1,3 +1,7 @@
+git init
+git remote add https://github.com/harden-ung/um_auto_build.git
+git remote -v
+
 git update-index --assume-unchanged settings.json
 git update-index --assume-unchanged proxies.txt
 git update-index --assume-unchanged accounts.txt

@@ -1,6 +1,9 @@
 {
   "headless": false,
+  "useVCC": false,
   "forcedGenre": "dance",
+  "minTracks": 2,
+  "maxTracks": 3,
   "supportedGenres": [
     "classical",
     "dance",
@@ -9,8 +12,8 @@
     "rock",
     "world"
   ],
-  "minTracks": 6,
-  "maxTracks": 6,
+  "blackListcountrySelectValues": ["GB", "US"],
+  "ramdomCountriesToSelect": ["KH", "FI", "NL", "NO", "IT", "DE"],
   "releaseNames": {
     "classical": [],
     "dance": [],
@@ -26,5 +29,6 @@
     "pop": [],
     "rock": [],
     "world": []
-  }
+  },
+  "devMode": false
 }
